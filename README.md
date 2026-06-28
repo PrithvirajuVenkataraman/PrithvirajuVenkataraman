@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Prithviraju Venkataraman and I'm pursuing my master's in Information Systems at California State University Long Beach
-- 👀 Extern @ Webacy, Inc. | Data Analyst | Actively Seeking Fall 2024 Co-op | SQL, Tableau, Python | 🚀 Helping Companies Use Data to Drive Insights and Enhance Decision-Making
 - 📫 You can reach out to me through mail: prithvirajuvenkataraman@gmail.com
